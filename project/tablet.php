@@ -27,7 +27,7 @@ try {
           
       <div class="card" style="background:#f9f9f9">
     
-      <img class="card-img-top" src="images/'.$pro['product_m_img'].'" alt="Card image">
+      <img class="card-img-top" src="image/'.$pro['product_m_img'].'" alt="Card image">
      
        <div class="card-body">
           <h4 class="card-title text-center" style="color:black">'.$pro['product_name'].'</h4>

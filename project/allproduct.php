@@ -31,7 +31,7 @@ try {
           
         <div class="card" style="background:#f9f9f9">
       
-        <img class="card-img-top" src="images/'.$value['product_m_img'].'" alt="Card image">
+        <img class="card-img-top" src="image/'.$value['product_m_img'].'" alt="Card image">
        
          <div class="card-body">
             <h4 class="card-title text-center" style="color:black">'.$value['product_name'].'</h4>
